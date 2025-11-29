@@ -111,7 +111,7 @@ winget install pear-devs.pear-desktop
   - `x64` for 64-bit Windows
   - `ia32` for 32-bit Windows
   - `arm64` for ARM64 Windows
-- Download installer in release page. (`*-Setup.exe`)
+- Download installer in release page. (`*-Setup-[version].exe`)
 - Place them in the **same directory**.
 - Run the installer.
 
